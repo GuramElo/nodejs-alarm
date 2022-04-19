@@ -1,0 +1,10 @@
+2022-04-13 20:27:35 - Starting C:\Program Files\nodejs\node.exe  C:\Users\DELL\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\DELL\Desktop\gh\123.js --scriptoptions= --log "abaaaaaa wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-04-13 20:27:35 - Started 6080
+2022-04-13 20:29:42 - Starting C:\Program Files\nodejs\node.exe  C:\Users\DELL\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\DELL\Desktop\gh\123.js --scriptoptions= --log "abaaaaaa wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-04-13 20:29:42 - Started 3836
+2022-04-13 20:29:55 - Starting C:\Program Files\nodejs\node.exe  C:\Users\DELL\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\DELL\Desktop\gh\123.js --scriptoptions= --log "abaaaaaa wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-04-13 20:29:55 - Started 3820
+2022-04-13 20:30:53 - Starting C:\Program Files\nodejs\node.exe  C:\Users\DELL\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\DELL\Desktop\gh\123.js --scriptoptions= --log "abaaaaaa wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-04-13 20:30:53 - Started 5072
+2022-04-13 20:31:31 - Starting C:\Program Files\nodejs\node.exe  C:\Users\DELL\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\DELL\Desktop\gh\123.js --scriptoptions= --log "abaaaaaa wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-04-13 20:31:31 - Started 2556
